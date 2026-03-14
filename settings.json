@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "24For7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Hiren30.aternos.me",
+    "port": 35532,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 25,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "play-McDevil.aternos.me:23644",
+        "Hiren30 ke sath khelne ke liye McDevil join karo sunday ko subhe 11:30 se 7:00 tak tum mil sakte ho",
+        "play-McDevil.aternos.me:23644"
       ]
     },
     "chat-log": true,
